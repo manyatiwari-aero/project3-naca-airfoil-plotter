@@ -16,7 +16,7 @@ For NACA 2412:
 - **4** - maximum camber located at 40% of chord
 - **12** - maximum thickness is 12% of chord length
 
-NACA 0012 has zero camber — perfectly symmetric airfoil.
+NACA 0012 has zero camber - perfectly symmetric airfoil.
 
 ## How it works
 1. Extracts camber (m), camber position (p), 
@@ -91,8 +91,8 @@ plot_airfoil('6412')  # high camber
 ## Files
 - `naca_airfoil.py` - main script
 - `naca_0012.png` - symmetric airfoil plot
-- `naca_2412.png` — cambered airfoil plot  
-- `naca_4412.png` — high camber airfoil plot
+- `naca_2412.png` - cambered airfoil plot  
+- `naca_4412.png` - high camber airfoil plot
 
 ## Skills used
 Python · NumPy · Matplotlib · Trigonometry ·  
