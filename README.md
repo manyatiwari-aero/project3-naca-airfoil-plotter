@@ -1,7 +1,7 @@
-# Project 3 — NACA Airfoil Plotter
+# Project 3 - NACA Airfoil Plotter
 
 **Status: Complete**  
-**Tool: Python — NumPy, Matplotlib**  
+**Tool: Python - NumPy, Matplotlib**  
 **Author: Manya Tiwari | Aerospace Engineering Year 2 | KIIT University**
 
 ## What this project does
